@@ -1,0 +1,14 @@
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\bin\Debug\net8.0\Finance Management System.exe
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\bin\Debug\net8.0\Finance Management System.deps.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\bin\Debug\net8.0\Finance Management System.runtimeconfig.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\bin\Debug\net8.0\Finance Management System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\bin\Debug\net8.0\Finance Management System.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfoInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfo.cs
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.csproj.CoreCompileInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\refint\Finance Management System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\Finance Management System.genruntimeconfig.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Finance Management System\obj\Debug\net8.0\ref\Finance Management System.dll
