@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "Printer Paper (A4)",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T01:40:20.2604259+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "HDMI Cable",
+    "Quantity": 15,
+    "DateAdded": "2025-08-15T01:40:20.2651487+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Ethernet Cable (Cat6)",
+    "Quantity": 30,
+    "DateAdded": "2025-08-15T01:40:20.2651562+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "USB Flash Drive 32GB",
+    "Quantity": 22,
+    "DateAdded": "2025-08-15T01:40:20.2651564+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Wireless Mouse",
+    "Quantity": 12,
+    "DateAdded": "2025-08-15T01:40:20.2651565+00:00"
+  },
+  {
+    "Id": 6,
+    "Name": "Laptop Stand",
+    "Quantity": 8,
+    "DateAdded": "2025-08-15T01:40:20.2651589+00:00"
+  },
+  {
+    "Id": 7,
+    "Name": "3 Pin Adaptor",
+    "Quantity": 14,
+    "DateAdded": "2025-08-15T01:40:20.2651591+00:00"
+  }
+]

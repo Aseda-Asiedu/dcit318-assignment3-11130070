@@ -1,0 +1,15 @@
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\bin\Debug\net8.0\Inventory Record Capture.exe
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\bin\Debug\net8.0\Inventory Record Capture.deps.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\bin\Debug\net8.0\Inventory Record Capture.runtimeconfig.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\bin\Debug\net8.0\Inventory Record Capture.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\bin\Debug\net8.0\Inventory Record Capture.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.AssemblyInfoInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.AssemblyInfo.cs
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.csproj.CoreCompileInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.sourcelink.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\refint\Inventory Record Capture.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\Inventory Record Capture.genruntimeconfig.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Inventory Record Capture\obj\Debug\net8.0\ref\Inventory Record Capture.dll
