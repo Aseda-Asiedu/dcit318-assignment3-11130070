@@ -1,0 +1,15 @@
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\bin\Debug\net8.0\Healthcare System.exe
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\bin\Debug\net8.0\Healthcare System.deps.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\bin\Debug\net8.0\Healthcare System.runtimeconfig.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\bin\Debug\net8.0\Healthcare System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\bin\Debug\net8.0\Healthcare System.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.AssemblyInfoInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.AssemblyInfo.cs
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.csproj.CoreCompileInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.sourcelink.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\refint\Healthcare System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\Healthcare System.genruntimeconfig.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Healthcare System\obj\Debug\net8.0\ref\Healthcare System.dll
