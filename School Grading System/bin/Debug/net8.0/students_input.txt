@@ -1,0 +1,10 @@
+101, Alice Smith, 84
+102, John Mensah, 73
+103, Ama Boateng, 51
+104, Kofi Owusu, 45
+105, Mary Adjei, 90
+106, Samuel Ofori, 67
+107, Linda Owusu, 78
+108, Josephine Adu, 59
+109, Mark Essien
+110, Sarah Johnson, eighty

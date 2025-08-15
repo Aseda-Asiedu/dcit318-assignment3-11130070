@@ -1,0 +1,8 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+John Mensah (ID: 102): Score = 73, Grade = B
+Ama Boateng (ID: 103): Score = 51, Grade = D
+Kofi Owusu (ID: 104): Score = 45, Grade = F
+Mary Adjei (ID: 105): Score = 90, Grade = A
+Samuel Ofori (ID: 106): Score = 67, Grade = C
+Linda Owusu (ID: 107): Score = 78, Grade = B
+Josephine Adu (ID: 108): Score = 59, Grade = D
