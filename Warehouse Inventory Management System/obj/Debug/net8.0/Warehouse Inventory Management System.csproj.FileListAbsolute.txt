@@ -1,0 +1,15 @@
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.exe
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.deps.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.runtimeconfig.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.AssemblyInfo.cs
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.sourcelink.json
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\refint\Warehouse Inventory Management System.dll
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.pdb
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.genruntimeconfig.cache
+C:\Users\asied\OneDrive\Desktop\School\dcit300\dcit318\dcit318-assignment3-11130070\Warehouse Inventory Management System\obj\Debug\net8.0\ref\Warehouse Inventory Management System.dll
